@@ -15,7 +15,7 @@
 </p>
 
 <h1 align="center" style="letter-spacing: 1px;">
-  Real Estate Marketing Strategy
+  Real Estate Marketing Analysis and Design
 </h1>
 
 <p align="center">
@@ -37,6 +37,18 @@
 This repository contains a specialized study on **Real Estate Marketing Strategy**, developed for the course **“Analysis and Design of Information Systems”** at the **University of West Attica (UNIWA)**.
 
 The project analyzes the systematic procedures involved in **real estate marketing**, utilizing structured modeling techniques to describe the professional interaction between the **Real Estate Agent** and the **Client**.
+
+---
+
+---
+
+## Table of Contents
+
+| Section               | Title                   | Description                                      |
+|----------------------:|------------------------|-------------------------------------------------|
+| diagrams              | Diagrams               | Contains diagrams and visual representations   |
+| docs                  | Documentation          | Project documentation, guides, and notes       |
+| visio                 | Visio                  | Visio source files       |
 
 ---
 
@@ -112,19 +124,9 @@ The workflow includes the following key steps:
 
 ---
 
-## Contents
+## Installation Guide
 
-| Section | Title                                   | Pages |
-|--------:|-----------------------------------------|:-----:|
-| B1      | Verbal Analysis                         | 4–8   |
-| B2      | Use Case Analysis (UML Use Cases)       | 9–11  |
-| B3      | Organizational Entities (OEs)           | 12–14 |
-| B4      | Functional Decomposition                | 12–14 |
-| B5      | Process Decomposition                   | 14–15 |
-| B6      | IDEF3 Workflow Diagram                  | 16–17 |
-| B7      | IDEF3 State Transition Diagram          | 17–18 |
-| B8      | Data Flow Diagram (DFD)                 | 19–20 |
-| B9      | IDEF0 Diagram                           | 20–23 |
-| B10     | Entity Relationship (E–R) Model         | 24    |
-
----
+Clone this repository to your local machine. 
+```bash
+git clone https://github.com/Analysis-of-Information-Systems/Real-Estate-Marketing.git
+``` 
