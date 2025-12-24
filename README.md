@@ -40,8 +40,6 @@ The project analyzes the systematic procedures involved in **real estate marketi
 
 ---
 
----
-
 ## Table of Contents
 
 | Section               | Title                   | Description                                      |
