@@ -42,11 +42,21 @@ The project analyzes the systematic procedures involved in **real estate marketi
 
 ## Table of Contents
 
-| Section               | Title                   | Description                                      |
-|----------------------:|------------------------|-------------------------------------------------|
-| diagrams              | Diagrams               | Contains diagrams and visual representations   |
-| docs                  | Documentation          | Project documentation, guides, and notes       |
-| visio                 | Visio                  | Visio source files       |
+| Section | Folder | Description |
+|------:|--------|-------------|
+| 1 | `docs/` | Project documentation for the Real Estate Marketing system |
+| 1.1 | `docs/Real-Estate-Marketing.pdf` | English documentation describing the real estate marketing process |
+| 1.2 | `docs/Αγοραπωλησία-Ακινήτου.pdf` | Greek documentation of the real estate purchase/sale process |
+| 2 | `diagrams/` | Exported diagrams illustrating business workflows |
+| 2.1 | `diagrams/B2.png` – `B8.png` | Core process diagrams for real estate marketing |
+| 2.2 | `diagrams/B9.A0.png` – `B9.A6.png` | Detailed subprocess diagrams of stage B9 |
+| 2.3 | `diagrams/B10.png` | Final aggregated process diagram |
+| 3 | `visio/` | Editable Microsoft Visio source diagrams |
+| 3.1 | `visio/B2.vsdx` – `B8.vsdx` | Visio files for core marketing processes |
+| 3.2 | `visio/B9.A0.vsdx` – `B9.A6.vsdx` | Visio files for detailed B9 subprocesses |
+| 3.3 | `visio/B10.vsdx` | Final process model (Visio source) |
+| 4 | `README.md` | Repository overview and project description |
+
 
 ---
 
