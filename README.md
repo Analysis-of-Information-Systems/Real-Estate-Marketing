@@ -18,7 +18,7 @@
 </p>
 
 <h1 align="center" style="letter-spacing: 1px; margin-top: 10px;">
-  Bank Transaction Analysis and Design
+  Real Estate Marketing Analysis and Design
 </h1>
 
 <p align="center" style="margin-top: 20px; line-height: 1.8;">
