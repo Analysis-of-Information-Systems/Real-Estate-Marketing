@@ -21,9 +21,12 @@
   Real Estate Marketing Analysis and Design
 </h1>
 
-<p align="center" style="margin-top: 20px; line-height: 1.8;">
+<p align="center" style="margin-top: 20px; line-height: 1.6;">
   <strong style="font-size: 16px;">Vasileios Evangelos Athanasiou</strong><br>
+  <span style="font-size: 13px;">Student ID: 19390005</span>
+</p>
 
+<p align="center" style="margin-top: 8px;">
   <a href="https://github.com/Ath21" target="_blank"
      style="text-decoration: none; margin: 0 6px; padding: 6px 12px;
             border-radius: 6px; background-color: #24292e; color: #ffffff;
@@ -37,9 +40,6 @@
             font-size: 13px;">
     LinkedIn
   </a>
-  <br>
-
-  <span style="font-size: 13px;">Student ID: 19390005</span>
 </p>
 
 <p align="center" style="margin-top: 16px; font-size: 14px;">
