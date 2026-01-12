@@ -42,7 +42,7 @@
 
 ---
 
-## Overview
+# Project Overview
 
 This repository contains a specialized study on **Real Estate Marketing Strategy**, developed for the course **“Analysis and Design of Information Systems”** at the **University of West Attica (UNIWA)**.
 
@@ -142,7 +142,7 @@ The workflow includes the following key steps:
 
 ---
 
-## Installation Guide
+# Installation Guide
 
 Clone this repository to your local machine. 
 ```bash
