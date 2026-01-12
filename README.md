@@ -188,7 +188,7 @@ git clone https://github.com/Analysis-of-Information-Systems/Real-Estate-Marketi
 ---
 
 ## Open the Documentation
-1. Navigate to the docs/ directory
+1. Navigate to the `docs/` directory
 2. Open the report corresponding to your preferred language:
     - English: `Real-Estate-Marketing.pdf`
     - Greek: `Αγοραπωλησία-Ακινήτου.pdf`
