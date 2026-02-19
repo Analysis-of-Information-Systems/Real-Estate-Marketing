@@ -122,7 +122,6 @@ The project analyzes the systematic procedures involved in **real estate marketi
 |     3.2 | `visio/B9.A0.vsdx` – `B9.A6.vsdx`  | Visio files for detailed B9 subprocesses                           |
 |     3.3 | `visio/B10.vsdx`                   | Final process model (Visio source)                                 |
 |       4 | `README.md`                        | Repository overview and project description                        |
-|       5 | `INSTALL.md`                       | Usage instructions                                                 |
 
 ---
 
